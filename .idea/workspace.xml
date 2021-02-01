@@ -15,9 +15,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="javascript.nodejs.core.library.configured.version" value="12.16.1" />
-    <property name="javascript.nodejs.core.library.typings.version" value="12.19.11" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.15.4" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.22" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -27,6 +28,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="ts.external.directory.path" value="D:\Programs\JetBrains\apps\WebStorm\ch-0\203.7148.54\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -54,90 +56,14 @@
       <workItem from="1608986269347" duration="749000" />
       <workItem from="1609004023075" duration="1243000" />
       <workItem from="1609009820870" duration="2876000" />
-      <workItem from="1609055304632" duration="1036000" />
+      <workItem from="1609055304632" duration="1409000" />
+      <workItem from="1612006989907" duration="3794000" />
+      <workItem from="1612168810433" duration="193000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="174" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608826862321">
-      <screen x="0" y="0" width="1440" height="870" />
-    </state>
-    <state x="174" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.870@0.0.1440.870" timestamp="1608826862321" />
-    <state width="1097" height="466" key="DebuggerActiveHint" timestamp="1609059758696">
-      <screen x="0" y="0" width="1440" height="870" />
-    </state>
-    <state width="1097" height="466" key="DebuggerActiveHint/0.0.1440.870@0.0.1440.870" timestamp="1609059758696" />
-    <state width="1419" height="268" key="GridCell.Tab.0.bottom" timestamp="1609059764619">
-      <screen x="0" y="0" width="1440" height="870" />
-    </state>
-    <state width="1419" height="268" key="GridCell.Tab.0.bottom/0.0.1440.870@0.0.1440.870" timestamp="1609059764619" />
-    <state width="1419" height="268" key="GridCell.Tab.0.center" timestamp="1609059764619">
-      <screen x="0" y="0" width="1440" height="870" />
-    </state>
-    <state width="1419" height="268" key="GridCell.Tab.0.center/0.0.1440.870@0.0.1440.870" timestamp="1609059764619" />
-    <state width="1419" height="268" key="GridCell.Tab.0.left" timestamp="1609059764619">
-      <screen x="0" y="0" width="1440" height="870" />
-    </state>
-    <state width="1419" height="268" key="GridCell.Tab.0.left/0.0.1440.870@0.0.1440.870" timestamp="1609059764619" />
-    <state width="1419" height="268" key="GridCell.Tab.0.right" timestamp="1609059764619">
-      <screen x="0" y="0" width="1440" height="870" />
-    </state>
-    <state width="1419" height="268" key="GridCell.Tab.0.right/0.0.1440.870@0.0.1440.870" timestamp="1609059764619" />
-    <state width="1419" height="268" key="GridCell.Tab.1.bottom" timestamp="1609059764428">
-      <screen x="0" y="0" width="1440" height="870" />
-    </state>
-    <state width="1419" height="268" key="GridCell.Tab.1.bottom/0.0.1440.870@0.0.1440.870" timestamp="1609059764428" />
-    <state width="1419" height="268" key="GridCell.Tab.1.center" timestamp="1609059764428">
-      <screen x="0" y="0" width="1440" height="870" />
-    </state>
-    <state width="1419" height="268" key="GridCell.Tab.1.center/0.0.1440.870@0.0.1440.870" timestamp="1609059764428" />
-    <state width="1419" height="268" key="GridCell.Tab.1.left" timestamp="1609059764428">
-      <screen x="0" y="0" width="1440" height="870" />
-    </state>
-    <state width="1419" height="268" key="GridCell.Tab.1.left/0.0.1440.870@0.0.1440.870" timestamp="1609059764428" />
-    <state width="1419" height="268" key="GridCell.Tab.1.right" timestamp="1609059764428">
-      <screen x="0" y="0" width="1440" height="870" />
-    </state>
-    <state width="1419" height="268" key="GridCell.Tab.1.right/0.0.1440.870@0.0.1440.870" timestamp="1609059764428" />
-    <state width="1419" height="268" key="GridCell.Tab.2.bottom" timestamp="1609059764428">
-      <screen x="0" y="0" width="1440" height="870" />
-    </state>
-    <state width="1419" height="268" key="GridCell.Tab.2.bottom/0.0.1440.870@0.0.1440.870" timestamp="1609059764428" />
-    <state width="1419" height="268" key="GridCell.Tab.2.center" timestamp="1609059764428">
-      <screen x="0" y="0" width="1440" height="870" />
-    </state>
-    <state width="1419" height="268" key="GridCell.Tab.2.center/0.0.1440.870@0.0.1440.870" timestamp="1609059764428" />
-    <state width="1419" height="268" key="GridCell.Tab.2.left" timestamp="1609059764428">
-      <screen x="0" y="0" width="1440" height="870" />
-    </state>
-    <state width="1419" height="268" key="GridCell.Tab.2.left/0.0.1440.870@0.0.1440.870" timestamp="1609059764428" />
-    <state width="1419" height="268" key="GridCell.Tab.2.right" timestamp="1609059764428">
-      <screen x="0" y="0" width="1440" height="870" />
-    </state>
-    <state width="1419" height="268" key="GridCell.Tab.2.right/0.0.1440.870@0.0.1440.870" timestamp="1609059764428" />
-    <state width="1419" height="268" key="GridCell.Tab.3.bottom" timestamp="1609059764429">
-      <screen x="0" y="0" width="1440" height="870" />
-    </state>
-    <state width="1419" height="268" key="GridCell.Tab.3.bottom/0.0.1440.870@0.0.1440.870" timestamp="1609059764429" />
-    <state width="1419" height="268" key="GridCell.Tab.3.center" timestamp="1609059764429">
-      <screen x="0" y="0" width="1440" height="870" />
-    </state>
-    <state width="1419" height="268" key="GridCell.Tab.3.center/0.0.1440.870@0.0.1440.870" timestamp="1609059764429" />
-    <state width="1419" height="268" key="GridCell.Tab.3.left" timestamp="1609059764429">
-      <screen x="0" y="0" width="1440" height="870" />
-    </state>
-    <state width="1419" height="268" key="GridCell.Tab.3.left/0.0.1440.870@0.0.1440.870" timestamp="1609059764429" />
-    <state width="1419" height="268" key="GridCell.Tab.3.right" timestamp="1609059764429">
-      <screen x="0" y="0" width="1440" height="870" />
-    </state>
-    <state width="1419" height="268" key="GridCell.Tab.3.right/0.0.1440.870@0.0.1440.870" timestamp="1609059764429" />
-    <state x="272" y="164" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1608827859868">
-      <screen x="0" y="0" width="1440" height="870" />
-    </state>
-    <state x="272" y="164" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.870@0.0.1440.870" timestamp="1608827859868" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -145,8 +71,12 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/lib/cors-anywhere.js</url>
           <line>164</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/cors-anywhere.js</url>
+          <line>424</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
